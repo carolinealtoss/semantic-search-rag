@@ -1,0 +1,9 @@
+Machine Learning e análise de dados
+
+Machine Learning é uma área da inteligência artificial
+que permite que sistemas aprendam padrões a partir
+de dados.
+
+Os modelos podem ser utilizados para classificação,
+previsão, identificação de tendências e análise
+de grandes volumes de informações.

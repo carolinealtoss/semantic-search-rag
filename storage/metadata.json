@@ -1,0 +1,27 @@
+[
+    {
+        "id": "inteligencia_artificial",
+        "filename": "inteligencia_artificial.txt",
+        "content": "Inteligência Artificial na produção de conteúdo\n\nA inteligência artificial está transformando a produção\nde conteúdo digital. Modelos de linguagem permitem\nautomatizar a criação de artigos, descrições de produtos\ne publicações para redes sociais.\n\nFerramentas baseadas em IA podem reduzir o tempo de\nprodução e melhorar a produtividade das equipes\nde marketing."
+    },
+    {
+        "id": "machine_learning",
+        "filename": "machine_learning.txt",
+        "content": "Machine Learning e análise de dados\n\nMachine Learning é uma área da inteligência artificial\nque permite que sistemas aprendam padrões a partir\nde dados.\n\nOs modelos podem ser utilizados para classificação,\nprevisão, identificação de tendências e análise\nde grandes volumes de informações."
+    },
+    {
+        "id": "marketing_digital",
+        "filename": "marketing_digital.txt",
+        "content": "Estratégias de Marketing Digital\n\nO marketing digital utiliza diferentes canais para\natrair clientes e aumentar a visibilidade de uma marca.\n\nEntre as principais estratégias estão o marketing\nde conteúdo, email marketing, redes sociais e\ncampanhas de anúncios pagos."
+    },
+    {
+        "id": "python_automacao",
+        "filename": "python_automacao.txt",
+        "content": "Automação de processos com Python\n\nPython permite automatizar diversas tarefas\nrepetitivas, como processamento de arquivos,\nextração de dados, integração com APIs e geração\nde relatórios.\n\nA automação reduz tarefas manuais e melhora\na eficiência operacional."
+    },
+    {
+        "id": "seo",
+        "filename": "seo.txt",
+        "content": "SEO e otimização de conteúdo\n\nSEO consiste em otimizar páginas e artigos para\nmelhorar seu posicionamento nos mecanismos de busca.\n\nA utilização de palavras-chave, estruturação de títulos,\nlinks internos e conteúdo relevante contribuem\npara aumentar o tráfego orgânico."
+    }
+]

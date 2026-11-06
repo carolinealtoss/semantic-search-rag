@@ -1,0 +1,9 @@
+Automação de processos com Python
+
+Python permite automatizar diversas tarefas
+repetitivas, como processamento de arquivos,
+extração de dados, integração com APIs e geração
+de relatórios.
+
+A automação reduz tarefas manuais e melhora
+a eficiência operacional.
