@@ -1,9 +1,15 @@
 Machine Learning e análise de dados
 
-Machine Learning é uma área da inteligência artificial
-que permite que sistemas aprendam padrões a partir
-de dados.
+Machine Learning, ou aprendizado de máquina, é uma área da inteligência artificial que desenvolve métodos para que sistemas identifiquem padrões a partir de dados. Em vez de depender exclusivamente de regras escritas manualmente para cada situação, um modelo é treinado com exemplos e ajusta seus parâmetros para realizar determinada tarefa. Depois do treinamento, ele pode analisar novos dados e produzir classificações, estimativas ou previsões.
 
-Os modelos podem ser utilizados para classificação,
-previsão, identificação de tendências e análise
-de grandes volumes de informações.
+Existem diferentes abordagens de aprendizado. No aprendizado supervisionado, o conjunto de treinamento contém exemplos associados a respostas conhecidas. Um modelo pode aprender, por exemplo, a classificar mensagens como legítimas ou indesejadas, ou estimar o preço de um imóvel a partir de características como localização, área e número de quartos. No aprendizado não supervisionado, os dados não possuem rótulos previamente definidos; técnicas de agrupamento podem ajudar a encontrar segmentos de clientes ou conjuntos de registros com características semelhantes.
+
+Também existe o aprendizado por reforço, no qual um agente aprende a tomar decisões por meio de interações com um ambiente e recebe recompensas ou penalidades de acordo com os resultados. Essa abordagem pode ser aplicada a problemas de controle, otimização e tomada de decisão sequencial. A escolha da técnica depende do objetivo, da disponibilidade de dados e das condições em que o sistema será utilizado.
+
+A análise de dados é uma etapa essencial em projetos de Machine Learning. Antes de treinar um modelo, é necessário compreender a origem dos dados, verificar sua qualidade, identificar valores ausentes, corrigir inconsistências e avaliar possíveis distorções. Dados inadequados podem levar a resultados pouco confiáveis. A preparação pode envolver normalização de valores, transformação de categorias, remoção de duplicidades e seleção de variáveis relevantes.
+
+Após a preparação, os dados costumam ser separados em conjuntos de treinamento e avaliação. O primeiro é utilizado para ajustar o modelo; o segundo ajuda a estimar como ele se comporta diante de exemplos que não foram utilizados durante o treinamento. Dependendo do problema, também pode ser necessário um conjunto de validação para comparar configurações e selecionar hiperparâmetros. Métricas como acurácia, precisão, revocação, F1 e erro médio devem ser escolhidas de acordo com o tipo de tarefa e o impacto dos erros.
+
+Modelos de Machine Learning podem apoiar a previsão de demanda, a identificação de transações suspeitas, a recomendação de produtos, a segmentação de clientes e a análise de tendências. Em grandes volumes de informação, eles ajudam a encontrar relações que seriam difíceis de observar manualmente. Entretanto, uma previsão não é uma garantia: o desempenho depende da representatividade dos dados e pode diminuir quando o comportamento analisado muda.
+
+Depois da implantação, o modelo precisa ser monitorado. É importante acompanhar a qualidade das previsões, detectar mudanças na distribuição dos dados e verificar se os resultados continuam adequados ao objetivo. Também devem ser considerados explicabilidade, privacidade, segurança e possíveis impactos discriminatórios. Um projeto bem-sucedido combina conhecimento do problema, dados confiáveis, avaliação criteriosa e acompanhamento contínuo.

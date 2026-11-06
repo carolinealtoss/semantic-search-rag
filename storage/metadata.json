@@ -1,27 +1,278 @@
 [
     {
-        "id": "inteligencia_artificial",
+        "id": "inteligencia_artificial_0",
         "filename": "inteligencia_artificial.txt",
-        "content": "Inteligência Artificial na produção de conteúdo\n\nA inteligência artificial está transformando a produção\nde conteúdo digital. Modelos de linguagem permitem\nautomatizar a criação de artigos, descrições de produtos\ne publicações para redes sociais.\n\nFerramentas baseadas em IA podem reduzir o tempo de\nprodução e melhorar a produtividade das equipes\nde marketing."
+        "chunk_index": 0,
+        "content": "Inteligência Artificial na produção de conteúdo"
     },
     {
-        "id": "machine_learning",
+        "id": "inteligencia_artificial_1",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 1,
+        "content": "A inteligência artificial está transformando a produção de conteúdo digital ao oferecer ferramentas capazes de apoiar diferentes etapas do trabalho editorial. Modelos de linguagem podem ajudar a pesquisar assuntos, organizar ideias, criar esboços, redigir versões iniciais de artigos, elaborar descrições de produtos e adaptar mensagens para diferentes redes sociais. Essas possibilidades permitem que equipes de marketing trabalhem com mais agilidade, especialmente quando precisam produzir materiai"
+    },
+    {
+        "id": "inteligencia_artificial_2",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 2,
+        "content": "e equipes de marketing trabalhem com mais agilidade, especialmente quando precisam produzir materiais variados com frequência."
+    },
+    {
+        "id": "inteligencia_artificial_3",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 3,
+        "content": "Na prática, a automação não significa que todo o processo deva ser entregue à ferramenta. Uma equipe pode começar definindo o objetivo da publicação, o público que deseja alcançar e a mensagem principal. Em seguida, pode utilizar um modelo de linguagem para sugerir pautas, estruturar tópicos ou preparar uma primeira versão do texto. O conteúdo gerado deve passar por revisão humana para verificar fatos, corrigir imprecisões, ajustar o tom de voz e garantir que a comunicação esteja alinhada à iden"
+    },
+    {
+        "id": "inteligencia_artificial_4",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 4,
+        "content": "atos, corrigir imprecisões, ajustar o tom de voz e garantir que a comunicação esteja alinhada à identidade da marca."
+    },
+    {
+        "id": "inteligencia_artificial_5",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 5,
+        "content": "Outra aplicação importante é a adaptação de conteúdo. Um artigo extenso pode servir de base para uma sequência de publicações curtas, uma newsletter, uma descrição para página de produto ou um roteiro de vídeo. A inteligência artificial pode sugerir essas versões, mas cada formato exige adequações próprias. Uma postagem em rede social, por exemplo, costuma precisar de uma mensagem mais direta, enquanto um artigo informativo pode exigir explicações detalhadas e referências."
+    },
+    {
+        "id": "inteligencia_artificial_6",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 6,
+        "content": "nsagem mais direta, enquanto um artigo informativo pode exigir explicações detalhadas e referências.\n\nAs ferramentas também podem apoiar a organização do calendário editorial. A partir de temas, datas relevantes e objetivos de campanha, é possível sugerir pautas e distribuir formatos ao longo do mês. Com isso, a equipe consegue visualizar lacunas na programação e evitar que todas as publicações tratem do mesmo assunto. A análise dos resultados de conteúdos anteriores pode ajudar a identificar temas que merecem aprofundamento."
+    },
+    {
+        "id": "inteligencia_artificial_7",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 7,
+        "content": "e dos resultados de conteúdos anteriores pode ajudar a identificar temas que merecem aprofundamento.\n\nApesar dos benefícios, existem limitações. Um modelo pode produzir informações incorretas, apresentar dados desatualizados ou escrever de maneira genérica. Também é necessário ter cuidado com informações confidenciais, direitos autorais, vieses e uso de dados pessoais. Por esse motivo, é importante estabelecer regras para o uso das ferramentas, definir quem aprova os materiais e conferir informações relevantes antes da publicação."
+    },
+    {
+        "id": "inteligencia_artificial_8",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 8,
+        "content": "A produtividade deve ser avaliada considerando não apenas a velocidade de geração, mas também a qualidade do material final. Indicadores como tempo de produção, quantidade de revisões, consistência editorial, engajamento e resultados de conversão podem ajudar a entender se a tecnologia está contribuindo para o trabalho. Quando existe planejamento e supervisão, a inteligência artificial pode reduzir tarefas repetitivas e liberar tempo para atividades que dependem de estratégia, criatividade e con"
+    },
+    {
+        "id": "inteligencia_artificial_9",
+        "filename": "inteligencia_artificial.txt",
+        "chunk_index": 9,
+        "content": "r tarefas repetitivas e liberar tempo para atividades que dependem de estratégia, criatividade e conhecimento do público."
+    },
+    {
+        "id": "machine_learning_0",
         "filename": "machine_learning.txt",
-        "content": "Machine Learning e análise de dados\n\nMachine Learning é uma área da inteligência artificial\nque permite que sistemas aprendam padrões a partir\nde dados.\n\nOs modelos podem ser utilizados para classificação,\nprevisão, identificação de tendências e análise\nde grandes volumes de informações."
+        "chunk_index": 0,
+        "content": "Machine Learning e análise de dados\n\nMachine Learning, ou aprendizado de máquina, é uma área da inteligência artificial que desenvolve métodos para que sistemas identifiquem padrões a partir de dados. Em vez de depender exclusivamente de regras escritas manualmente para cada situação, um modelo é treinado com exemplos e ajusta seus parâmetros para realizar determinada tarefa. Depois do treinamento, ele pode analisar novos dados e produzir classificações, estimativas ou previsões."
     },
     {
-        "id": "marketing_digital",
+        "id": "machine_learning_1",
+        "filename": "machine_learning.txt",
+        "chunk_index": 1,
+        "content": "Existem diferentes abordagens de aprendizado. No aprendizado supervisionado, o conjunto de treinamento contém exemplos associados a respostas conhecidas. Um modelo pode aprender, por exemplo, a classificar mensagens como legítimas ou indesejadas, ou estimar o preço de um imóvel a partir de características como localização, área e número de quartos. No aprendizado não supervisionado, os dados não possuem rótulos previamente definidos; técnicas de agrupamento podem ajudar a encontrar segmentos de "
+    },
+    {
+        "id": "machine_learning_2",
+        "filename": "machine_learning.txt",
+        "chunk_index": 2,
+        "content": "ossuem rótulos previamente definidos; técnicas de agrupamento podem ajudar a encontrar segmentos de clientes ou conjuntos de registros com características semelhantes."
+    },
+    {
+        "id": "machine_learning_3",
+        "filename": "machine_learning.txt",
+        "chunk_index": 3,
+        "content": "Também existe o aprendizado por reforço, no qual um agente aprende a tomar decisões por meio de interações com um ambiente e recebe recompensas ou penalidades de acordo com os resultados. Essa abordagem pode ser aplicada a problemas de controle, otimização e tomada de decisão sequencial. A escolha da técnica depende do objetivo, da disponibilidade de dados e das condições em que o sistema será utilizado."
+    },
+    {
+        "id": "machine_learning_4",
+        "filename": "machine_learning.txt",
+        "chunk_index": 4,
+        "content": "ca depende do objetivo, da disponibilidade de dados e das condições em que o sistema será utilizado.\n\nA análise de dados é uma etapa essencial em projetos de Machine Learning. Antes de treinar um modelo, é necessário compreender a origem dos dados, verificar sua qualidade, identificar valores ausentes, corrigir inconsistências e avaliar possíveis distorções. Dados inadequados podem levar a resultados pouco confiáveis. A preparação pode envolver normalização de valores, transformação de categorias, remoção de duplicidades e seleção de variáveis relevantes."
+    },
+    {
+        "id": "machine_learning_5",
+        "filename": "machine_learning.txt",
+        "chunk_index": 5,
+        "content": "Após a preparação, os dados costumam ser separados em conjuntos de treinamento e avaliação. O primeiro é utilizado para ajustar o modelo; o segundo ajuda a estimar como ele se comporta diante de exemplos que não foram utilizados durante o treinamento. Dependendo do problema, também pode ser necessário um conjunto de validação para comparar configurações e selecionar hiperparâmetros. Métricas como acurácia, precisão, revocação, F1 e erro médio devem ser escolhidas de acordo com o tipo de tarefa e"
+    },
+    {
+        "id": "machine_learning_6",
+        "filename": "machine_learning.txt",
+        "chunk_index": 6,
+        "content": "acurácia, precisão, revocação, F1 e erro médio devem ser escolhidas de acordo com o tipo de tarefa e o impacto dos erros."
+    },
+    {
+        "id": "machine_learning_7",
+        "filename": "machine_learning.txt",
+        "chunk_index": 7,
+        "content": "Modelos de Machine Learning podem apoiar a previsão de demanda, a identificação de transações suspeitas, a recomendação de produtos, a segmentação de clientes e a análise de tendências. Em grandes volumes de informação, eles ajudam a encontrar relações que seriam difíceis de observar manualmente. Entretanto, uma previsão não é uma garantia: o desempenho depende da representatividade dos dados e pode diminuir quando o comportamento analisado muda."
+    },
+    {
+        "id": "machine_learning_8",
+        "filename": "machine_learning.txt",
+        "chunk_index": 8,
+        "content": "penho depende da representatividade dos dados e pode diminuir quando o comportamento analisado muda.\n\nDepois da implantação, o modelo precisa ser monitorado. É importante acompanhar a qualidade das previsões, detectar mudanças na distribuição dos dados e verificar se os resultados continuam adequados ao objetivo. Também devem ser considerados explicabilidade, privacidade, segurança e possíveis impactos discriminatórios. Um projeto bem-sucedido combina conhecimento do problema, dados confiáveis, avaliação criteriosa e acompanhamento contínuo."
+    },
+    {
+        "id": "marketing_digital_0",
         "filename": "marketing_digital.txt",
-        "content": "Estratégias de Marketing Digital\n\nO marketing digital utiliza diferentes canais para\natrair clientes e aumentar a visibilidade de uma marca.\n\nEntre as principais estratégias estão o marketing\nde conteúdo, email marketing, redes sociais e\ncampanhas de anúncios pagos."
+        "chunk_index": 0,
+        "content": "Estratégias de Marketing Digital"
     },
     {
-        "id": "python_automacao",
+        "id": "marketing_digital_1",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 1,
+        "content": "Estratégias de Marketing Digital\n\nO marketing digital reúne estratégias utilizadas para atrair pessoas, desenvolver relacionamentos com potenciais clientes e aumentar a visibilidade de uma marca por meio de canais digitais. Entre os canais mais comuns estão sites, mecanismos de busca, redes sociais, email marketing, plataformas de vídeo e campanhas de anúncios pagos. A escolha dos canais deve considerar o público, os objetivos do negócio, o orçamento e a capacidade de produzir conteúdo relevante de forma consistente."
+    },
+    {
+        "id": "marketing_digital_2",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 2,
+        "content": "O marketing de conteúdo é uma das estratégias utilizadas para oferecer informações úteis ao público. Artigos, guias, vídeos, infográficos e materiais educativos podem responder dúvidas, explicar produtos e ajudar pessoas em diferentes etapas da decisão de compra. Para funcionar, o conteúdo precisa ter um propósito claro e ser adequado às necessidades de quem o consome. Publicar com frequência, por si só, não garante resultados; é necessário compreender quais assuntos são relevantes e como cada m"
+    },
+    {
+        "id": "marketing_digital_3",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 3,
+        "content": " si só, não garante resultados; é necessário compreender quais assuntos são relevantes e como cada material contribui para os objetivos da empresa."
+    },
+    {
+        "id": "marketing_digital_4",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 4,
+        "content": "As redes sociais permitem distribuir conteúdo, conversar com a audiência e acompanhar reações. Cada plataforma possui características próprias, formatos preferidos e hábitos de consumo diferentes. Por isso, uma mesma mensagem pode precisar de adaptações para funcionar em canais distintos. O planejamento deve considerar linguagem, formato, frequência, moderação de comentários e formas de interação. A análise de alcance, engajamento, cliques e crescimento da comunidade ajuda a avaliar o desempenho"
+    },
+    {
+        "id": "marketing_digital_5",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 5,
+        "content": " A análise de alcance, engajamento, cliques e crescimento da comunidade ajuda a avaliar o desempenho das publicações."
+    },
+    {
+        "id": "marketing_digital_6",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 6,
+        "content": "O email marketing é utilizado para manter contato com pessoas que aceitaram receber comunicações. Newsletters, mensagens de boas-vindas, avisos e campanhas segmentadas podem informar, educar e estimular ações. Uma estratégia responsável respeita o consentimento, oferece meios simples de descadastro e evita o envio excessivo. A segmentação permite adaptar as mensagens de acordo com interesses ou interações, desde que os dados sejam tratados com transparência e segurança."
+    },
+    {
+        "id": "marketing_digital_7",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 7,
+        "content": "cordo com interesses ou interações, desde que os dados sejam tratados com transparência e segurança.\n\nAs campanhas de anúncios pagos podem ampliar a exposição de uma oferta e direcionar tráfego para páginas específicas. Antes de investir, é importante definir o objetivo da campanha, o público, a mensagem, o orçamento e a ação esperada. Testes de diferentes criativos e textos podem revelar quais versões geram melhores resultados. O acompanhamento deve considerar não apenas impressões e cliques, mas também conversões, custo por aquisição e retorno do investimento."
+    },
+    {
+        "id": "marketing_digital_8",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 8,
+        "content": "o apenas impressões e cliques, mas também conversões, custo por aquisição e retorno do investimento.\n\nUma estratégia integrada conecta os canais em uma jornada coerente. Uma pessoa pode descobrir uma marca por meio de um artigo, acompanhar suas publicações nas redes sociais, cadastrar-se em uma newsletter e, posteriormente, acessar uma página de produto. Para compreender esse percurso, a equipe precisa definir indicadores e utilizar ferramentas de análise. Métricas devem estar ligadas a objetivos concretos, como reconhecimento de marca, geração de leads, vendas ou retenção de clientes."
+    },
+    {
+        "id": "marketing_digital_9",
+        "filename": "marketing_digital.txt",
+        "chunk_index": 9,
+        "content": "objetivos concretos, como reconhecimento de marca, geração de leads, vendas ou retenção de clientes.\n\nO planejamento de marketing digital deve ser revisado com base nos resultados e nas mudanças do mercado. É importante documentar hipóteses, acompanhar o desempenho por período e distinguir correlação de causalidade. Uma campanha pode gerar muitos acessos sem produzir vendas, enquanto um conteúdo de menor alcance pode atrair visitantes mais qualificados. A combinação de estratégia, experimentação e análise permite distribuir melhor os recursos e aperfeiçoar continuamente a comunicação."
+    },
+    {
+        "id": "python_automacao_0",
         "filename": "python_automacao.txt",
-        "content": "Automação de processos com Python\n\nPython permite automatizar diversas tarefas\nrepetitivas, como processamento de arquivos,\nextração de dados, integração com APIs e geração\nde relatórios.\n\nA automação reduz tarefas manuais e melhora\na eficiência operacional."
+        "chunk_index": 0,
+        "content": "Automação de processos com Python\n\nPython é uma linguagem de programação bastante utilizada para automatizar tarefas repetitivas e integrar sistemas. Sua sintaxe acessível e o ecossistema de bibliotecas permitem criar soluções para processamento de arquivos, extração de dados, comunicação com APIs, geração de relatórios e organização de informações. A automação pode reduzir atividades manuais, diminuir erros operacionais e tornar processos mais previsíveis."
     },
     {
-        "id": "seo",
+        "id": "python_automacao_1",
+        "filename": "python_automacao.txt",
+        "chunk_index": 1,
+        "content": "ão pode reduzir atividades manuais, diminuir erros operacionais e tornar processos mais previsíveis.\n\nUma aplicação comum é o processamento de arquivos. Um script pode percorrer uma pasta, localizar documentos de determinado formato, renomear arquivos seguindo um padrão ou consolidar informações de várias planilhas. Bibliotecas como pathlib ajudam a manipular caminhos e diretórios, enquanto csv e openpyxl permitem trabalhar com arquivos tabulares. Antes de alterar arquivos importantes, é recomendável validar os dados e manter cópias de segurança."
+    },
+    {
+        "id": "python_automacao_2",
+        "filename": "python_automacao.txt",
+        "chunk_index": 2,
+        "content": "Outra possibilidade é a integração com APIs. Uma aplicação Python pode enviar requisições HTTP para consultar serviços externos, receber dados em JSON e utilizá-los em outro processo. A biblioteca requests é frequentemente usada para esse tipo de comunicação. É necessário tratar códigos de resposta, limites de requisição, falhas de rede e autenticação. Chaves de acesso e senhas não devem ficar diretamente no código-fonte; variáveis de ambiente ou mecanismos próprios de gerenciamento de segredos "
+    },
+    {
+        "id": "python_automacao_3",
+        "filename": "python_automacao.txt",
+        "chunk_index": 3,
+        "content": "etamente no código-fonte; variáveis de ambiente ou mecanismos próprios de gerenciamento de segredos são alternativas mais seguras."
+    },
+    {
+        "id": "python_automacao_4",
+        "filename": "python_automacao.txt",
+        "chunk_index": 4,
+        "content": "A extração de dados também pode ser automatizada. Um programa pode consultar uma fonte autorizada, coletar informações e armazená-las em um banco de dados ou arquivo para análise posterior. Quando a coleta envolve páginas web, é importante respeitar termos de uso, políticas de acesso, privacidade e limites técnicos do serviço. Os dados coletados devem ser validados, pois alterações na estrutura da fonte podem interromper o processo."
+    },
+    {
+        "id": "python_automacao_5",
+        "filename": "python_automacao.txt",
+        "chunk_index": 5,
+        "content": "s coletados devem ser validados, pois alterações na estrutura da fonte podem interromper o processo.\n\nPython também pode gerar relatórios automaticamente. Um fluxo pode buscar dados, calcular totais, agrupar resultados e produzir arquivos para uma equipe. Dependendo da necessidade, o resultado pode ser um CSV, uma planilha Excel, um PDF ou uma mensagem enviada por email. Separar a coleta, o processamento e a apresentação facilita a manutenção e permite testar cada etapa de forma independente."
+    },
+    {
+        "id": "python_automacao_6",
+        "filename": "python_automacao.txt",
+        "chunk_index": 6,
+        "content": "cessamento e a apresentação facilita a manutenção e permite testar cada etapa de forma independente.\n\nEm processos recorrentes, a execução pode ser agendada por ferramentas do sistema operacional, como cron em ambientes Linux, ou pelo Agendador de Tarefas do Windows. Em projetos maiores, ferramentas de orquestração podem coordenar dependências, tentativas e monitoramento. Também é importante registrar logs com informações sobre início, término, quantidade de registros processados e erros encontrados."
+    },
+    {
+        "id": "python_automacao_7",
+        "filename": "python_automacao.txt",
+        "chunk_index": 7,
+        "content": "logs com informações sobre início, término, quantidade de registros processados e erros encontrados.\n\nUma automação confiável precisa considerar exceções e situações inesperadas. Arquivos podem estar ausentes, APIs podem ficar indisponíveis e dados podem chegar em formatos diferentes do esperado. O uso adequado de validações, tratamento de exceções, logs e testes ajuda a identificar problemas. Para operações que não podem ser repetidas sem consequências, como pagamentos ou criação de registros, é necessário pensar em idempotência e mecanismos para evitar duplicações."
+    },
+    {
+        "id": "python_automacao_8",
+        "filename": "python_automacao.txt",
+        "chunk_index": 8,
+        "content": "s ou criação de registros, é necessário pensar em idempotência e mecanismos para evitar duplicações.\n\nO objetivo da automação não é apenas executar tarefas mais rapidamente, mas melhorar a consistência e a rastreabilidade do processo. Antes de programar, vale mapear as etapas manuais, identificar regras, definir entradas e saídas e estabelecer critérios de sucesso. Uma solução simples, bem documentada e monitorada costuma ser mais útil do que um fluxo complexo que ninguém consegue manter."
+    },
+    {
+        "id": "seo_0",
         "filename": "seo.txt",
-        "content": "SEO e otimização de conteúdo\n\nSEO consiste em otimizar páginas e artigos para\nmelhorar seu posicionamento nos mecanismos de busca.\n\nA utilização de palavras-chave, estruturação de títulos,\nlinks internos e conteúdo relevante contribuem\npara aumentar o tráfego orgânico."
+        "chunk_index": 0,
+        "content": "SEO e otimização de conteúdo\n\nSEO, sigla para Search Engine Optimization, é o conjunto de práticas utilizadas para melhorar a compreensão, a relevância e a apresentação de páginas nos mecanismos de busca. O objetivo é aumentar a possibilidade de que conteúdos úteis sejam encontrados por pessoas que pesquisam assuntos relacionados. SEO não depende de uma única técnica: envolve qualidade editorial, organização das páginas, aspectos técnicos e compreensão da intenção de busca."
+    },
+    {
+        "id": "seo_1",
+        "filename": "seo.txt",
+        "chunk_index": 1,
+        "content": "qualidade editorial, organização das páginas, aspectos técnicos e compreensão da intenção de busca.\n\nA pesquisa de palavras-chave ajuda a identificar termos e perguntas utilizados pelo público. Mais do que repetir expressões, é importante entender o que a pessoa deseja encontrar. Uma busca pode indicar intenção informativa, quando alguém procura aprender sobre um assunto; intenção comercial, quando compara alternativas; ou intenção transacional, quando está próxima de realizar uma compra. O conteúdo deve responder à necessidade correspondente de maneira clara e completa."
+    },
+    {
+        "id": "seo_2",
+        "filename": "seo.txt",
+        "chunk_index": 2,
+        "content": "izar uma compra. O conteúdo deve responder à necessidade correspondente de maneira clara e completa.\n\nA estrutura dos títulos contribui para a organização da página. O título principal deve descrever o assunto, enquanto subtítulos ajudam a dividir o conteúdo em seções compreensíveis. Parágrafos objetivos, listas e exemplos podem facilitar a leitura. Palavras-chave e termos relacionados devem aparecer naturalmente, sem repetição artificial. O uso excessivo de expressões com o objetivo de manipular rankings pode prejudicar a experiência do leitor e a qualidade do material."
+    },
+    {
+        "id": "seo_3",
+        "filename": "seo.txt",
+        "chunk_index": 3,
+        "content": "o objetivo de manipular rankings pode prejudicar a experiência do leitor e a qualidade do material.\n\nLinks internos conectam páginas do mesmo site e ajudam visitantes a descobrir conteúdos relacionados. Eles também oferecem contexto sobre a organização do site. Links externos podem apontar para fontes úteis que sustentam uma explicação ou permitem aprofundamento. O texto utilizado no link deve indicar, sempre que possível, o destino. Uma arquitetura clara facilita a navegação e ajuda mecanismos de busca a compreenderem a relação entre as páginas."
+    },
+    {
+        "id": "seo_4",
+        "filename": "seo.txt",
+        "chunk_index": 4,
+        "content": "a clara facilita a navegação e ajuda mecanismos de busca a compreenderem a relação entre as páginas.\n\nOs aspectos técnicos também influenciam a experiência. Páginas precisam ser acessíveis, funcionar em dispositivos móveis e carregar com desempenho adequado. URLs compreensíveis, redirecionamentos corretos, ausência de links quebrados e uso apropriado de dados estruturados podem contribuir para uma boa organização. Arquivos como sitemap e regras de rastreamento ajudam a orientar mecanismos de busca, mas não garantem que uma página será indexada ou terá determinada posição."
+    },
+    {
+        "id": "seo_5",
+        "filename": "seo.txt",
+        "chunk_index": 5,
+        "content": "ntar mecanismos de busca, mas não garantem que uma página será indexada ou terá determinada posição.\n\nA qualidade do conteúdo é central. Um artigo deve apresentar informações úteis, ser coerente com o título e evitar promessas que não consegue cumprir. Quando o tema exige precisão, é importante verificar dados, indicar fontes confiáveis e manter o material atualizado. Conteúdos produzidos apenas para repetir palavras-chave, sem responder à necessidade do leitor, tendem a oferecer pouco valor."
+    },
+    {
+        "id": "seo_6",
+        "filename": "seo.txt",
+        "chunk_index": 6,
+        "content": "s para repetir palavras-chave, sem responder à necessidade do leitor, tendem a oferecer pouco valor.\n\nA avaliação de SEO exige acompanhamento de indicadores. Impressões, cliques, taxa de cliques, posição média e tráfego orgânico ajudam a observar a presença de páginas nos resultados de busca. Também é útil analisar conversões e comportamento dos visitantes, pois aumentar o tráfego nem sempre significa alcançar os objetivos do negócio. Ferramentas de análise e de monitoramento de pesquisa podem revelar consultas relevantes, páginas com oportunidades de melhoria e problemas técnicos."
+    },
+    {
+        "id": "seo_7",
+        "filename": "seo.txt",
+        "chunk_index": 7,
+        "content": "uisa podem revelar consultas relevantes, páginas com oportunidades de melhoria e problemas técnicos.\n\nSEO é um trabalho contínuo, não uma ação pontual. Mudanças no comportamento das pessoas, na concorrência e nos sistemas de busca podem alterar o desempenho ao longo do tempo. Uma rotina de revisão deve priorizar páginas importantes, corrigir problemas, atualizar informações e testar melhorias. O foco deve permanecer em oferecer uma experiência útil e conteúdo que responda de forma confiável às necessidades do público."
     }
 ]
